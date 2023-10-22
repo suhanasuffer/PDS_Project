@@ -1,0 +1,9 @@
+requests
+streamlit
+pandas
+nltk
+scikit-learn
+youtube-comment-downloader
+beautifulsoup4
+matplotlib
+wordcloud
